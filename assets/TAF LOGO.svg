@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2 {
+        font-family: DessauHeavy, Dessau;
+        font-size: 175px;
+      }
+
+      .cls-3 {
+        letter-spacing: .01em;
+      }
+
+      .cls-4 {
+        letter-spacing: .02em;
+      }
+
+      .cls-5 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(5.5 765.69)"><tspan x="0" y="0">THE </tspan><tspan class="cls-3" x="324.1" y="0">A</tspan><tspan x="431.37" y="0">UT</tspan><tspan class="cls-5" x="620.19" y="0">I</tspan><tspan x="676.54" y="0">SM F</tspan><tspan class="cls-1" x="1038.61" y="0">I</tspan><tspan x="1095.14" y="0">L</tspan><tspan class="cls-4" x="1173.01" y="0">E</tspan><tspan x="1265.58" y="0">S</tspan></text>
+</svg>
