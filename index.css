@@ -2,3 +2,19 @@ body {
     background-color: #b70101;
 }
 
+.reviews {
+    display: inline;
+}
+
+.logo {
+    display: inline;
+    max-width: 100vw;
+    max-height: 100vh;
+    position: absolute;
+    left: 0;
+    top: 0;">
+}
+
+.buttons {
+    display: inline;
+}
